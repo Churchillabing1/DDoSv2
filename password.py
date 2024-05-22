@@ -1,4 +1,2 @@
-
-
 # password.py
-PASSWORD = "churchilli"
+PASSWORD = "joshua094"
